@@ -1,0 +1,9 @@
+system_address: serial:///dev/ttyACM1:115200
+target1:
+  latitude: 35.79704093
+  longitude: 139.89202818999996
+  altitude: 0
+time_fin: 300
+target2:
+  latitude: 35.7138415
+  longitude: 139.76050941
