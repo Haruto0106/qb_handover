@@ -9,14 +9,14 @@ CaseとDrone、画像航法用のCameraでそれぞれクラスを作成しま�
 本番で動かしたのは`/queenbee_main/main/qb_main_daemon.py`です。(daemonを使ってプログラムの途中復帰を考慮)
 
 ## Case部分
-担当: 山城
+担当: 山城 (田中)
 
 ロケットへの収納判定、ロケットからの放出判定、パラシュート降下後の着地判定の3つを判定し、その後機体を展開するプログラムです。
 光センサー、気圧センサーを使用しました。
 細かい内容・アルゴリズムは実際にプログラムを読んでください。`/queenbee_main/main/queenbee/class_case.py`に置いてあります。
 
 ## Drone部分 
-担当: 秀島
+担当: 秀島 (野村)
 ### ゴールまでの飛行
 基本的にDrone制御は[mavsdk.System](https://github.com/mavlink/MAVSDK-Python?tab=readme-ov-file)の子クラスである`queenbee_main/main/queenbee.bee`の`Bee`クラスを使って制御しています。
 [ライブラリ](http://mavsdk-python-docs.s3-website.eu-central-1.amazonaws.com/system.html#mavsdk.system.System)も重要ですが、
@@ -31,7 +31,7 @@ GPSの位置情報をconfigファイルに記憶するスクリプト
 picamera ver.1.3を用いて撮影した画像を使用。撮影に用いたライブラリはpicamera2で、画像処理に用いたのはOpenCVです。hsv空間で閾値を決め、ゴールの場所を認識し、座標を計算してGotoでゴールに近づくという動作を繰り返しました。画像の撮影は`/queenbee_main/main/queenbee/camera2.py`、画像航法は`/queenbee_main/main/queenbee/bee.py`においてあります。
 
 ## 地上との通信
-担当: 野村
+担当: 野村 (秀島)
 
 地上との通信にはLoRaを用いました。詳しくは`/queenbee_main/main/queenbee/lora_queenbee.py`と[LoRa.md](https://github.com/Haruto0106/qb_handover/blob/main/handover/LoRa.md)を見てください。
 
