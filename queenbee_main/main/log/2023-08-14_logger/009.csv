@@ -1,0 +1,15 @@
+"Timeinfo","Level","Message","Distance","Relative Altitude","Absolute Altitude","Latitude","Longitude"
+2023-08-14 07:06:00.574, [INFO],Pixhawk initialized
+2023-08-14 07:06:00.602, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-08-14 07:06:00.603, [INFO],system_address: /dev/ttyACMO
+2023-08-14 07:06:00.604, [INFO],Waiting for drone to connect...
+2023-08-14 07:06:00.713, [INFO],Connected Drone!
+2023-08-14 07:06:00.739, [INFO],0.0,-1.0,0.0,0.0,0.0,0.0
+2023-08-14 07:06:01.242, [INFO],0.0,-1.0,0.0,0.0,0.0,0.0
+2023-08-14 07:06:01.748, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-08-14 07:06:02.250, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-08-14 07:06:02.752, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-08-14 07:06:03.254, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-08-14 07:06:03.722, [INFO],-- Uploading mission
+2023-08-14 07:06:03.757, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-08-14 07:06:03.786, [INFO],--Downloading mission

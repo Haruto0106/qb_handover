@@ -1,0 +1,8 @@
+"Timeinfo","Level","Message","Distance","Relative Altitude","Absolute Altitude","Latitude","Longitude"
+2023-09-14 06:56:10.546, [INFO],Pixhawk initialized
+2023-09-14 06:56:10.573, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-14 06:56:10.574, [INFO],system_address: /dev/ttyACMO
+2023-09-14 06:56:10.575, [INFO],Waiting for drone to connect...
+2023-09-14 06:56:12.59 , [INFO],Connected Drone!
+2023-09-14 06:56:12.60 , [INFO],Waiting for drone to have a global position estimate...
+2023-09-14 06:56:12.171, [INFO],-- Global position estimate OK

@@ -1,0 +1,19 @@
+"Timeinfo","Level","Message","Light","Light Counter","Pressure","Disp Pressure","Pressure Counter","Temperature"
+2023-08-10 11:33:36.300, [INFO],Case program initialized
+2023-08-10 11:33:36.304, [INFO],Pixhawk initialized
+2023-08-10 11:33:36.310, [INFO],Outside,0,0,0,0,0,0
+2023-08-10 11:33:36.840, [INFO],outside
+2023-08-10 11:33:37.314, [INFO],Outside,761,0,0,0,0,0
+2023-08-10 11:33:37.372, [INFO],outside
+2023-08-10 11:33:37.904, [INFO],outside
+2023-08-10 11:33:38.317, [INFO],Outside,762,0,0,0,0,0
+2023-08-10 11:33:38.436, [INFO],outside
+2023-08-10 11:33:38.968, [INFO],outside
+2023-08-10 11:33:39.320, [INFO],Outside,760,0,0,0,0,0
+2023-08-10 11:33:39.500, [INFO],outside
+2023-08-10 11:33:40.33 , [INFO],outside
+2023-08-10 11:33:40.323, [INFO],Outside,760,0,0,0,0,0
+2023-08-10 11:33:40.565, [INFO],outside
+2023-08-10 11:33:41.97 , [INFO],outside
+2023-08-10 11:33:41.325, [INFO],Outside,760,0,0,0,0,0
+2023-08-10 11:33:41.629, [INFO],outside

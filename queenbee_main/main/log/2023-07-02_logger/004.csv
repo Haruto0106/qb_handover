@@ -1,0 +1,16 @@
+"Timeinfo","Level","Message","Light","Light Counter","Pressure","Disp Pressure","Pressure Counter","Temperature"
+2023-07-02 04:14:13.536, [INFO],Case program initialized
+2023-07-02 04:14:13.574, [INFO],Storage Succeeded
+2023-07-02 04:14:13.576, [INFO],Release Succeeded
+2023-07-02 04:14:13.577, [INFO],Outside,0,0,0,0,0,0
+2023-07-02 04:14:13.577, [INFO],Landing Succeeded
+2023-07-02 04:14:13.580, [INFO],Cut case
+2023-07-02 04:14:14.579, [INFO],Land,0,0,0,0,0,0
+2023-07-02 04:14:15.581, [INFO],Land,0,0,0,0,0,0
+2023-07-02 04:14:16.583, [INFO],Land,0,0,0,0,0,0
+2023-07-02 04:14:17.585, [INFO],Land,0,0,0,0,0,0
+2023-07-02 04:14:18.586, [INFO],Begin expantion
+2023-07-02 04:14:18.587, [INFO],Land,0,0,0,0,0,0
+2023-07-02 04:14:19.88 , [INFO],Expanded
+2023-07-02 04:14:19.589, [INFO],Land,0,0,0,0,0,0
+2023-07-02 04:14:20.591, [INFO],Land,0,0,0,0,0,0

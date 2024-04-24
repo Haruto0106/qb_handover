@@ -1,0 +1,26 @@
+"Timeinfo","Level","Message","Distance","Relative Altitude","Absolute Altitude","Latitude","Longitude"
+2023-09-04 10:01:31.766, [INFO],Camera initialized
+2023-09-04 10:01:31.771, [INFO],Pixhawk initialized
+2023-09-04 10:01:31.799, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-04 10:01:31.800, [INFO],system_address: /dev/ttyACMO
+2023-09-04 10:01:31.801, [INFO],Waiting for drone to connect...
+2023-09-04 10:01:31.935, [INFO],Connected Drone!
+2023-09-04 10:01:31.936, [INFO],Waiting for drone to have a global position estimate...
+2023-09-04 10:01:32.873, [INFO],-- Global position estimate OK
+2023-09-04 10:01:32.874, [INFO],waiting for pixhawk to hold
+2023-09-04 10:01:32.875, [INFO],--Holding
+2023-09-04 10:01:33.912, [INFO],--Holding
+2023-09-04 10:01:34.942, [INFO],--Holding
+2023-09-04 10:01:35.972, [INFO],--Holding
+2023-09-04 10:01:36.992, [INFO],--Holding
+2023-09-04 10:01:38.12 , [INFO],--Holding
+2023-09-04 10:01:39.43 , [INFO],--Holding
+2023-09-04 10:01:40.66 , [INFO],--Holding
+2023-09-04 10:01:41.84 , [INFO],--Holding
+2023-09-04 10:01:42.114, [INFO],--Holding
+2023-09-04 10:01:43.147, [INFO],--Holding
+2023-09-04 10:01:44.176, [INFO],--Holding
+2023-09-04 10:01:45.206, [INFO],--Holding
+2023-09-04 10:01:46.243, [INFO],--Holding
+2023-09-04 10:01:47.272, [INFO],--Holding
+2023-09-04 10:01:48.298, [INFO],--Holding

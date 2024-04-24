@@ -1,0 +1,93 @@
+"Timeinfo","Level","Message","Light","Pressure","Disp Pressure","Light Counter","Pressure Counter"
+2023-09-03 09:49:02.113, [INFO],Pixhawk initialized
+2023-09-03 09:49:02.115, [INFO],Case program initialized
+2023-09-03 09:49:10.140, [INFO],Outside,0,0,0,0,0
+2023-09-03 09:49:11.146, [INFO],Outside,0,0,0,2,0
+2023-09-03 09:49:12.148, [INFO],Outside,0,0,0,4,0
+2023-09-03 09:49:13.151, [INFO],Outside,0,0,0,6,0
+2023-09-03 09:49:14.154, [INFO],Outside,0,0,0,8,0
+2023-09-03 09:49:15.157, [INFO],Outside,0,0,0,9,0
+2023-09-03 09:49:15.751, [INFO],Storage Succeeded
+2023-09-03 09:49:15.814, [INFO],Light still low
+2023-09-03 09:49:15.816, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:15.868, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:15.919, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:15.971, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:16.23 , [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:16.163, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:17.167, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:18.171, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:19.175, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:20.179, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:21.186, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:22.190, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:23.193, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:24.197, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:25.201, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:26.85 , [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:26.137, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:26.139, [INFO],Disabling pressure sensor
+2023-09-03 09:49:26.190, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:26.192, [INFO],Disabling pressure sensor
+2023-09-03 09:49:26.208, [INFO],Storage,0,1,0,0,0
+2023-09-03 09:49:26.244, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:26.246, [INFO],Disabling pressure sensor
+2023-09-03 09:49:26.298, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:49:26.300, [INFO],Disabling pressure sensor
+2023-09-03 09:49:26.351, [INFO],Disp pressure too stable or minus
+2023-09-03 09:49:26.914, [INFO],Light still low
+2023-09-03 09:49:27.211, [INFO],Storage,0,1,0.0,0,1
+2023-09-03 09:49:27.477, [INFO],Light still low
+2023-09-03 09:49:28.40 , [INFO],Light still low
+2023-09-03 09:49:28.214, [INFO],Storage,0,1,0.0,0,1
+2023-09-03 09:49:28.603, [INFO],Light still low
+2023-09-03 09:49:29.166, [INFO],Light still low
+2023-09-03 09:49:29.217, [INFO],Storage,0,1,0.0,0,1
+2023-09-03 09:49:29.729, [INFO],Light still low
+2023-09-03 09:49:30.221, [INFO],Storage,0,1,0.0,0,1
+2023-09-03 09:49:30.292, [INFO],Light still low
+2023-09-03 09:49:30.855, [INFO],Light still low
+2023-09-03 09:49:31.227, [INFO],Storage,0,1,0.0,0,1
+2023-09-03 09:49:31.388, [INFO],Light disconnected??
+2023-09-03 09:49:31.419, [INFO],Light still low
+2023-09-03 09:49:31.952, [INFO],Disabling light sensor
+2023-09-03 09:49:31.983, [INFO],Light still low
+2023-09-03 09:49:32.230, [INFO],Storage,0,1,0.0,0,1
+2023-09-03 09:49:32.485, [INFO],Release Succeeded
+2023-09-03 09:49:33.238, [INFO],Released,0,1,0.0,1,0
+2023-09-03 09:49:34.266, [INFO],Released,0,1,0.0,1,0
+2023-09-03 09:49:35.294, [INFO],Released,0,1,0.0,1,0
+2023-09-03 09:49:36.326, [INFO],Released,0,1,0.0,1,0
+2023-09-03 09:49:37.354, [INFO],Released,0,1,0.0,1,0
+2023-09-03 09:49:38.382, [INFO],Released,0,1,0.0,1,0
+2023-09-03 09:49:39.410, [INFO],Released,0,1,0.0,1,0
+2023-09-03 09:49:40.438, [INFO],Released,0,1,0.0,1,0
+2023-09-03 09:49:41.470, [INFO],Released,0,1,0.0,1,0
+2023-09-03 09:49:42.487, [INFO],Landing Succeeded
+2023-09-03 09:49:42.488, [INFO],Cut case nichrome High
+2023-09-03 09:49:42.493, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:43.495, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:44.497, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:45.499, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:46.505, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:47.507, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:47.994, [INFO],Expanded nichrome Low
+2023-09-03 09:49:48.509, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:49.512, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:50.515, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:51.518, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:52.521, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:53.524, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:54.527, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:55.529, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:56.538, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:57.541, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:58.6  , [INFO],Cut case nichrome High
+2023-09-03 09:49:58.544, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:49:59.546, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:50:00.549, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:50:01.555, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:50:02.558, [INFO],Land,0,1,0.0,1,0
+2023-09-03 09:50:03.513, [INFO],Expanded nichrome Low
+2023-09-03 09:50:06.388, [INFO],['/dev/ttyAMA0']
+2023-09-03 09:50:06.390, [INFO],Waiting for drone to connect...

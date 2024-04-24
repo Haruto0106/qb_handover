@@ -1,0 +1,149 @@
+"Timeinfo","Level","Message","Light","Pressure","Disp Pressure","Light Counter","Pressure Counter"
+2023-09-03 09:33:04.896, [INFO],Pixhawk initialized
+2023-09-03 09:33:04.899, [INFO],Case program initialized
+2023-09-03 09:33:12.926, [INFO],Outside,0,0,0,0,0
+2023-09-03 09:33:13.933, [INFO],Outside,18,0,0,2,0
+2023-09-03 09:33:14.935, [INFO],Outside,18,0,0,4,0
+2023-09-03 09:33:15.938, [INFO],Outside,18,0,0,6,0
+2023-09-03 09:33:16.940, [INFO],Outside,47,0,0,8,0
+2023-09-03 09:33:17.943, [INFO],Outside,32,0,0,9,0
+2023-09-03 09:33:18.537, [INFO],Storage Succeeded
+2023-09-03 09:33:18.599, [INFO],Light still low
+2023-09-03 09:33:18.601, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:18.654, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:18.706, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:18.758, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:18.810, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:18.946, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:19.949, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:20.951, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:21.954, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:22.957, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:23.968, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:24.971, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:25.973, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:26.976, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:27.979, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:28.872, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:28.924, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:28.926, [INFO],Disabling pressure sensor
+2023-09-03 09:33:28.978, [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:28.979, [INFO],Disabling pressure sensor
+2023-09-03 09:33:28.985, [INFO],Storage,5,1,0,0,0
+2023-09-03 09:33:29.31 , [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:29.32 , [INFO],Disabling pressure sensor
+2023-09-03 09:33:29.84 , [ERROR],Pressure error:[Errno 2] No such file or directory
+2023-09-03 09:33:29.85 , [INFO],Disabling pressure sensor
+2023-09-03 09:33:29.137, [INFO],Disp pressure too stable or minus
+2023-09-03 09:33:29.700, [INFO],Light still low
+2023-09-03 09:33:29.987, [INFO],Storage,1,1,0.0,0,1
+2023-09-03 09:33:30.262, [INFO],Light still low
+2023-09-03 09:33:30.825, [INFO],Light still low
+2023-09-03 09:33:30.990, [INFO],Storage,2,1,0.0,0,1
+2023-09-03 09:33:31.388, [INFO],Light still low
+2023-09-03 09:33:31.951, [INFO],Light still low
+2023-09-03 09:33:31.993, [INFO],Storage,2,1,0.0,0,1
+2023-09-03 09:33:32.513, [INFO],Light still low
+2023-09-03 09:33:32.996, [INFO],Storage,37,1,0.0,0,1
+2023-09-03 09:33:33.76 , [INFO],Light still low
+2023-09-03 09:33:33.639, [INFO],Light still low
+2023-09-03 09:33:34.2  , [INFO],Storage,118,1,0.0,0,1
+2023-09-03 09:33:34.202, [INFO],Light still low
+2023-09-03 09:33:34.765, [INFO],Light still low
+2023-09-03 09:33:35.5  , [INFO],Storage,120,1,0.0,0,1
+2023-09-03 09:33:35.328, [INFO],Light still low
+2023-09-03 09:33:35.891, [INFO],Light still low
+2023-09-03 09:33:36.7  , [INFO],Storage,123,1,0.0,0,1
+2023-09-03 09:33:36.453, [INFO],Light still low
+2023-09-03 09:33:37.11 , [INFO],Storage,124,1,0.0,0,1
+2023-09-03 09:33:37.16 , [INFO],Light still low
+2023-09-03 09:33:37.579, [INFO],Light still low
+2023-09-03 09:33:38.13 , [INFO],Storage,124,1,0.0,0,1
+2023-09-03 09:33:38.142, [INFO],Light still low
+2023-09-03 09:33:38.705, [INFO],Light still low
+2023-09-03 09:33:39.19 , [INFO],Storage,124,1,0.0,0,1
+2023-09-03 09:33:39.268, [INFO],Light still low
+2023-09-03 09:33:39.831, [INFO],Light still low
+2023-09-03 09:33:40.22 , [INFO],Storage,124,1,0.0,0,1
+2023-09-03 09:33:40.394, [INFO],Light still low
+2023-09-03 09:33:40.956, [INFO],Light still low
+2023-09-03 09:33:41.24 , [INFO],Storage,120,1,0.0,0,1
+2023-09-03 09:33:41.519, [INFO],Light still low
+2023-09-03 09:33:42.27 , [INFO],Storage,111,1,0.0,0,1
+2023-09-03 09:33:42.82 , [INFO],Light still low
+2023-09-03 09:33:42.645, [INFO],Light still low
+2023-09-03 09:33:43.30 , [INFO],Storage,106,1,0.0,0,1
+2023-09-03 09:33:43.208, [INFO],Light still low
+2023-09-03 09:33:43.771, [INFO],Light still low
+2023-09-03 09:33:44.37 , [INFO],Storage,146,1,0.0,0,1
+2023-09-03 09:33:44.333, [INFO],Light still low
+2023-09-03 09:33:44.896, [INFO],Light still low
+2023-09-03 09:33:45.40 , [INFO],Storage,93,1,0.0,0,1
+2023-09-03 09:33:45.459, [INFO],Light still low
+2023-09-03 09:33:46.22 , [INFO],Light still low
+2023-09-03 09:33:46.42 , [INFO],Storage,142,1,0.0,0,1
+2023-09-03 09:33:46.585, [INFO],Light still low
+2023-09-03 09:33:47.45 , [INFO],Storage,319,1,0.0,0,1
+2023-09-03 09:33:47.147, [INFO],Light still low
+2023-09-03 09:33:47.710, [INFO],Light still low
+2023-09-03 09:33:48.48 , [INFO],Storage,102,1,0.0,0,1
+2023-09-03 09:33:48.273, [INFO],Light still low
+2023-09-03 09:33:48.836, [INFO],Light still low
+2023-09-03 09:33:49.56 , [INFO],Storage,282,1,0.0,0,1
+2023-09-03 09:33:49.399, [INFO],Light still low
+2023-09-03 09:33:49.961, [INFO],Light still low
+2023-09-03 09:33:50.58 , [INFO],Storage,289,1,0.0,0,1
+2023-09-03 09:33:50.524, [INFO],Light still low
+2023-09-03 09:33:51.61 , [INFO],Storage,263,1,0.0,0,1
+2023-09-03 09:33:51.87 , [INFO],Light still low
+2023-09-03 09:33:51.650, [INFO],Light still low
+2023-09-03 09:33:52.64 , [INFO],Storage,245,1,0.0,0,1
+2023-09-03 09:33:52.212, [INFO],Light still low
+2023-09-03 09:33:52.775, [INFO],Light still low
+2023-09-03 09:33:53.67 , [INFO],Storage,180,1,0.0,0,1
+2023-09-03 09:33:53.338, [INFO],Light still low
+2023-09-03 09:33:53.901, [INFO],Light still low
+2023-09-03 09:33:54.73 , [INFO],Storage,117,1,0.0,0,1
+2023-09-03 09:33:54.464, [INFO],Light still low
+2023-09-03 09:33:55.27 , [INFO],Light still low
+2023-09-03 09:33:55.77 , [INFO],Storage,306,1,0.0,0,1
+2023-09-03 09:33:55.590, [INFO],Light still low
+2023-09-03 09:33:56.79 , [INFO],Storage,134,1,0.0,0,1
+2023-09-03 09:33:56.152, [INFO],Release Succeeded
+2023-09-03 09:33:57.87 , [INFO],Released,769,1,0.0,1,0
+2023-09-03 09:33:58.110, [INFO],Released,769,1,0.0,1,0
+2023-09-03 09:33:59.138, [INFO],Released,769,1,0.0,1,0
+2023-09-03 09:34:00.166, [INFO],Released,769,1,0.0,1,0
+2023-09-03 09:34:01.194, [INFO],Released,769,1,0.0,1,0
+2023-09-03 09:34:02.222, [INFO],Released,769,1,0.0,1,0
+2023-09-03 09:34:03.250, [INFO],Released,769,1,0.0,1,0
+2023-09-03 09:34:04.278, [INFO],Released,769,1,0.0,1,0
+2023-09-03 09:34:05.306, [INFO],Released,769,1,0.0,1,0
+2023-09-03 09:34:06.154, [INFO],Landing Succeeded
+2023-09-03 09:34:06.155, [INFO],Cut case nichrome High
+2023-09-03 09:34:06.329, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:07.331, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:08.333, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:09.339, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:10.341, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:11.343, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:11.662, [INFO],Expanded nichrome Low
+2023-09-03 09:34:12.346, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:13.349, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:14.355, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:15.358, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:16.361, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:17.364, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:18.366, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:19.372, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:20.375, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:21.378, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:21.673, [INFO],Cut case nichrome High
+2023-09-03 09:34:22.381, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:23.384, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:24.387, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:25.390, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:26.396, [INFO],Land,769,1,0.0,1,0
+2023-09-03 09:34:27.181, [INFO],Expanded nichrome Low
+2023-09-03 09:34:29.606, [INFO],['/dev/ttyAMA0']
+2023-09-03 09:34:29.608, [INFO],Waiting for drone to connect...

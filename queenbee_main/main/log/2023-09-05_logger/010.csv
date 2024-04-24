@@ -1,0 +1,5 @@
+"Timeinfo","Level","Message","Light","Pressure","Disp Pressure","Light Counter","Pressure Counter"
+2023-09-05 10:50:11.893, [INFO],Camera initialized
+2023-09-05 10:50:11.898, [INFO],Pixhawk initialized
+2023-09-05 10:50:11.923, [INFO],['/dev/ttyAMA0']
+2023-09-05 10:50:11.924, [INFO],Waiting for drone to connect...

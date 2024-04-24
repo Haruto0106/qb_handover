@@ -1,0 +1,7 @@
+"Timeinfo","Level","Message","Light","Light Counter","Odo Altitude","Disp Altitude","Altitude Counter","Disp Velocity Z","Landing Counter"
+2023-08-29 14:26:07.359, [INFO],Pixhawk initialized
+2023-08-29 14:26:07.384, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-08-29 14:26:07.385, [INFO],system_address: /dev/ttyACMO
+2023-08-29 14:26:07.388, [INFO],Waiting for drone to connect...
+2023-08-29 14:26:07.503, [INFO],Connected Drone!
+2023-08-29 14:26:07.508, [INFO],Case program initialized

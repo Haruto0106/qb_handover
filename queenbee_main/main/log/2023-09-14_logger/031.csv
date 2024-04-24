@@ -1,0 +1,4 @@
+"Timeinfo","Level","Message","Light","Pressure","Disp Pressure","Light Counter","Pressure Counter"
+2023-09-14 07:41:39.730, [INFO],Pixhawk initialized
+2023-09-14 07:41:39.732, [INFO],Case program initialized
+2023-09-14 07:41:39.825, [INFO],Camera initialized

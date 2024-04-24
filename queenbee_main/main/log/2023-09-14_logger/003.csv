@@ -1,0 +1,4 @@
+"Timeinfo","Level","Message","Distance","Relative Altitude","Absolute Altitude","Latitude","Longitude"
+2023-09-14 01:07:23.670, [INFO],Pixhawk initialized
+2023-09-14 01:07:23.672, [INFO],Case program initialized
+2023-09-14 01:07:23.815, [INFO],Camera initialized

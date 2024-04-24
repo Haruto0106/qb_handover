@@ -1,0 +1,4 @@
+"Timeinfo","Level","Message","Distance","Relative Altitude","Absolute Altitude","Latitude","Longitude"
+2023-09-13 16:00:31.877, [INFO],Pixhawk initialized
+2023-09-13 16:00:31.901, [INFO],['/dev/ttyAMA0']
+2023-09-13 16:00:31.902, [INFO],Waiting for drone to connect...

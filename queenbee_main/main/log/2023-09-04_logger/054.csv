@@ -1,0 +1,122 @@
+"Timeinfo","Level","Message","Light","Pressure","Disp Pressure","Light Counter","Pressure Counter"
+2023-09-04 09:02:49.144, [INFO],Camera initialized
+2023-09-04 09:02:49.149, [INFO],Pixhawk initialized
+2023-09-04 09:02:49.178, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-04 09:02:49.180, [INFO],system_address: /dev/ttyACMO
+2023-09-04 09:02:49.181, [INFO],Waiting for drone to connect...
+2023-09-04 09:02:49.302, [INFO],Connected Drone!
+2023-09-04 09:03:00.319, [INFO],waiting for pixhawk to arm
+2023-09-04 09:03:01.250, [INFO],--Arming
+2023-09-04 09:03:01.292, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:03.251, [INFO],--Arming
+2023-09-04 09:03:03.281, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:05.253, [INFO],--Arming
+2023-09-04 09:03:05.280, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:07.253, [INFO],--Arming
+2023-09-04 09:03:07.282, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:09.250, [INFO],--Arming
+2023-09-04 09:03:09.271, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:11.252, [INFO],--Arming
+2023-09-04 09:03:15.348, [INFO],--Kill
+2023-09-04 09:03:15.367, [INFO],--Reboot
+2023-09-04 09:03:25.391, [INFO],Pixhawk initialized
+2023-09-04 09:03:25.423, [INFO],['/dev/ttyACM1', '/dev/ttyAMA0']
+2023-09-04 09:03:25.424, [INFO],system_address: /dev/ttyACM1
+2023-09-04 09:03:25.425, [INFO],Waiting for drone to connect...
+2023-09-04 09:03:26.512, [INFO],Connected Drone!
+2023-09-04 09:03:37.530, [INFO],waiting for pixhawk to arm
+2023-09-04 09:03:38.530, [INFO],--Arming
+2023-09-04 09:03:38.563, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:40.530, [INFO],--Arming
+2023-09-04 09:03:40.561, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:42.531, [INFO],--Arming
+2023-09-04 09:03:42.572, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:44.532, [INFO],--Arming
+2023-09-04 09:03:44.572, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:46.530, [INFO],--Arming
+2023-09-04 09:03:46.558, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:03:48.529, [INFO],--Arming
+2023-09-04 09:03:52.552, [INFO],--Kill
+2023-09-04 09:03:52.574, [INFO],--Reboot
+2023-09-04 09:04:02.610, [INFO],Pixhawk initialized
+2023-09-04 09:04:02.640, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-04 09:04:02.641, [INFO],system_address: /dev/ttyACMO
+2023-09-04 09:04:02.642, [INFO],Waiting for drone to connect...
+2023-09-04 09:04:03.721, [INFO],Connected Drone!
+2023-09-04 09:04:14.738, [INFO],waiting for pixhawk to arm
+2023-09-04 09:04:15.707, [INFO],--Arming
+2023-09-04 09:04:15.737, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:04:17.705, [INFO],--Arming
+2023-09-04 09:04:17.744, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:04:19.707, [INFO],--Arming
+2023-09-04 09:04:19.732, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:04:21.707, [INFO],--Arming
+2023-09-04 09:04:21.740, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:04:23.705, [INFO],--Arming
+2023-09-04 09:04:23.738, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:04:25.704, [INFO],--Arming
+2023-09-04 09:04:29.762, [INFO],--Kill
+2023-09-04 09:04:29.793, [INFO],--Reboot
+2023-09-04 09:04:39.829, [INFO],Pixhawk initialized
+2023-09-04 09:04:39.862, [INFO],['/dev/ttyACM1', '/dev/ttyAMA0']
+2023-09-04 09:04:39.863, [INFO],system_address: /dev/ttyACM1
+2023-09-04 09:04:39.864, [INFO],Waiting for drone to connect...
+2023-09-04 09:04:40.945, [INFO],Connected Drone!
+2023-09-04 09:04:51.961, [INFO],waiting for pixhawk to arm
+2023-09-04 09:04:52.930, [INFO],--Arming
+2023-09-04 09:04:52.966, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:04:54.928, [INFO],--Arming
+2023-09-04 09:04:54.954, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:04:56.928, [INFO],--Arming
+2023-09-04 09:04:56.965, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:04:58.932, [INFO],--Arming
+2023-09-04 09:04:58.963, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:05:00.932, [INFO],--Arming
+2023-09-04 09:05:00.952, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:05:02.930, [INFO],--Arming
+2023-09-04 09:05:06.982, [INFO],--Kill
+2023-09-04 09:05:07.8  , [INFO],--Reboot
+2023-09-04 09:05:17.29 , [INFO],Pixhawk initialized
+2023-09-04 09:05:17.58 , [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-04 09:05:17.60 , [INFO],system_address: /dev/ttyACMO
+2023-09-04 09:05:17.60 , [INFO],Waiting for drone to connect...
+2023-09-04 09:05:18.138, [INFO],Connected Drone!
+2023-09-04 09:05:29.154, [INFO],waiting for pixhawk to arm
+2023-09-04 09:05:30.125, [INFO],--Arming
+2023-09-04 09:05:30.166, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:05:32.126, [INFO],--Arming
+2023-09-04 09:05:32.156, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:05:34.127, [INFO],--Arming
+2023-09-04 09:05:34.154, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:05:36.127, [INFO],--Arming
+2023-09-04 09:05:36.165, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:05:38.126, [INFO],--Arming
+2023-09-04 09:05:38.155, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:05:40.124, [INFO],--Arming
+2023-09-04 09:05:44.180, [INFO],--Kill
+2023-09-04 09:05:44.209, [INFO],--Reboot
+2023-09-04 09:05:54.238, [INFO],Pixhawk initialized
+2023-09-04 09:05:54.269, [INFO],['/dev/ttyACM1', '/dev/ttyAMA0']
+2023-09-04 09:05:54.270, [INFO],system_address: /dev/ttyACM1
+2023-09-04 09:05:54.272, [INFO],Waiting for drone to connect...
+2023-09-04 09:05:55.352, [INFO],Connected Drone!
+2023-09-04 09:06:06.366, [INFO],waiting for pixhawk to arm
+2023-09-04 09:06:07.335, [INFO],--Arming
+2023-09-04 09:06:07.375, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:06:09.334, [INFO],--Arming
+2023-09-04 09:06:09.366, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:06:11.337, [INFO],--Arming
+2023-09-04 09:06:11.364, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:06:13.333, [INFO],--Arming
+2023-09-04 09:06:13.372, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:06:15.335, [INFO],--Arming
+2023-09-04 09:06:15.362, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:06:17.335, [INFO],--Arming
+2023-09-04 09:06:21.389, [INFO],--Kill
+2023-09-04 09:06:21.419, [INFO],--Reboot
+2023-09-04 09:06:31.446, [INFO],Pixhawk initialized
+2023-09-04 09:06:31.476, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-04 09:06:31.477, [INFO],system_address: /dev/ttyACMO
+2023-09-04 09:06:31.478, [INFO],Waiting for drone to connect...
+2023-09-04 09:06:32.557, [INFO],Connected Drone!
+2023-09-04 09:06:43.573, [INFO],waiting for pixhawk to arm

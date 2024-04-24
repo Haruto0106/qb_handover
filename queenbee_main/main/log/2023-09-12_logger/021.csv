@@ -1,0 +1,21 @@
+"Timeinfo","Level","Message","Distance","Relative Altitude","Absolute Altitude","Latitude","Longitude"
+2023-09-12 06:25:52.609, [INFO],Camera initialized
+2023-09-12 06:25:52.615, [INFO],Pixhawk initialized
+2023-09-12 06:25:52.642, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-12 06:25:52.643, [INFO],system_address: /dev/ttyACMO
+2023-09-12 06:25:52.644, [INFO],Waiting for drone to connect...
+2023-09-12 06:25:54.120, [INFO],Connected Drone!
+2023-09-12 06:25:54.121, [INFO],Waiting for drone to have a global position estimate...
+2023-09-12 06:25:56.151, [INFO],-- Global position estimate OK
+2023-09-12 06:25:56.152, [INFO],waiting for pixhawk to hold
+2023-09-12 06:25:56.153, [INFO],--Holding
+2023-09-12 06:25:56.182, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-09-12 06:25:57.186, [INFO],--Holding
+2023-09-12 06:25:57.205, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-09-12 06:25:58.209, [INFO],--Holding
+2023-09-12 06:25:58.234, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-09-12 06:25:59.238, [INFO],--Holding
+2023-09-12 06:25:59.265, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-09-12 06:26:00.269, [INFO],--Holding
+2023-09-12 06:26:00.296, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-09-12 06:26:01.300, [INFO],--Holding

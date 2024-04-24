@@ -1,0 +1,35 @@
+"Timeinfo","Level","Message","Light","Pressure","Disp Pressure","Light Counter","Pressure Counter"
+2023-09-09 09:02:39.91 , [INFO],Pixhawk initialized
+2023-09-09 09:02:39.93 , [INFO],Case program initialized
+2023-09-09 09:02:51.119, [INFO],Outside,0,0,0,0,0
+2023-09-09 09:02:52.123, [INFO],Judge Storage:L2,0,0,0,2,0
+2023-09-09 09:02:53.127, [INFO],Judge Storage:L4,0,0,0,4,0
+2023-09-09 09:02:54.131, [INFO],Judge Storage:L6,0,0,0,6,0
+2023-09-09 09:02:55.134, [INFO],Judge Storage:L8,0,0,0,8,0
+2023-09-09 09:02:56.138, [INFO],Judge Storage:L9,0,0,0,9,0
+2023-09-09 09:02:57.143, [INFO],Judge Storage:L11,0,0,0,11,0
+2023-09-09 09:02:58.146, [INFO],Judge Storage:L13,0,0,0,13,0
+2023-09-09 09:02:59.150, [INFO],Judge Storage:L15,0,0,0,15,0
+2023-09-09 09:03:00.154, [INFO],Judge Storage:L16,0,0,0,16,0
+2023-09-09 09:03:01.157, [INFO],Judge Storage:L18,0,0,0,18,0
+2023-09-09 09:03:02.162, [INFO],Judge Storage:L20,0,0,0,20,0
+2023-09-09 09:03:03.166, [INFO],Judge Storage:L22,0,0,0,22,0
+2023-09-09 09:03:04.169, [INFO],Judge Storage:L24,0,0,0,24,0
+2023-09-09 09:03:05.171, [INFO],Judge Storage:L25,0,0,0,25,0
+2023-09-09 09:03:06.174, [INFO],Judge Storage:L27,0,0,0,27,0
+2023-09-09 09:03:07.178, [INFO],Judge Storage:L29,0,0,0,29,0
+2023-09-09 09:03:08.181, [INFO],Judge Storage:L31,0,0,0,31,0
+2023-09-09 09:03:09.183, [INFO],Judge Storage:L33,0,0,0,33,0
+2023-09-09 09:03:10.186, [INFO],Judge Storage:L34,0,0,0,34,0
+2023-09-09 09:03:11.188, [INFO],Judge Storage:L36,0,0,0,36,0
+2023-09-09 09:03:12.193, [INFO],Judge Storage:L38,0,0,0,38,0
+2023-09-09 09:03:13.195, [INFO],Judge Storage:L40,0,0,0,40,0
+2023-09-09 09:03:14.198, [INFO],Judge Storage:L42,0,0,0,42,0
+2023-09-09 09:03:15.200, [INFO],Judge Storage:L43,0,0,0,43,0
+2023-09-09 09:03:16.203, [INFO],Judge Storage:L45,0,0,0,45,0
+2023-09-09 09:03:17.207, [INFO],Judge Storage:L47,0,0,0,47,0
+2023-09-09 09:03:18.210, [INFO],Judge Storage:L49,0,0,0,49,0
+2023-09-09 09:03:19.213, [INFO],Judge Storage:L50,0,0,0,50,0
+2023-09-09 09:03:20.215, [INFO],Judge Storage:L52,0,0,0,52,0
+2023-09-09 09:03:21.218, [INFO],Judge Storage:L54,0,0,0,54,0
+2023-09-09 09:03:22.223, [INFO],Judge Storage:L56,0,0,0,56,0

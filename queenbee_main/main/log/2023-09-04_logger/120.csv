@@ -1,0 +1,14 @@
+"Timeinfo","Level","Message","Light","Pressure","Disp Pressure","Light Counter","Pressure Counter"
+2023-09-04 12:10:17.298, [INFO],Camera initialized
+2023-09-04 12:10:17.304, [INFO],Pixhawk initialized
+2023-09-04 12:10:17.332, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-04 12:10:17.334, [INFO],system_address: /dev/ttyACMO
+2023-09-04 12:10:17.335, [INFO],Waiting for drone to connect...
+2023-09-04 12:10:17.504, [INFO],Connected Drone!
+2023-09-04 12:10:25.551, [INFO],0.0,-1.0,0.0,0.0,0.0,0.0
+2023-09-04 12:10:26.58 , [INFO],0.0,1.0882249,0.0,0.0,0.0,0.0
+2023-09-04 12:10:26.560, [INFO],MANUAL,1.0876976,0.0,0.0,0.0,0.0
+2023-09-04 12:10:27.63 , [INFO],MANUAL,1.068359,0.0,0.0,0.0,0.0
+2023-09-04 12:10:27.566, [INFO],MANUAL,1.0687252,0.0,0.0,0.0,0.0
+2023-09-04 12:10:28.70 , [INFO],MANUAL,1.0681526,0.0,0.0,0.0,0.0
+2023-09-04 12:10:28.519, [INFO],--Precise land start

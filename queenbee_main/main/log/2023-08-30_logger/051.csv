@@ -1,0 +1,4 @@
+"Timeinfo","Level","Message","Light","Light Counter","Odo Altitude","Disp Altitude","Altitude Counter","Disp Velocity Z","Landing Counter"
+2023-08-30 14:10:34.628, [INFO],Pixhawk initialized
+2023-08-30 14:10:34.630, [INFO],Case program initialized
+2023-08-30 14:10:34.641, [INFO],Outside,0,1,0,0,0,0,0

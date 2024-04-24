@@ -1,0 +1,53 @@
+"Timeinfo","Level","Message","Distance","Relative Altitude","Absolute Altitude","Latitude","Longitude"
+2023-09-04 09:12:04.143, [INFO],Camera initialized
+2023-09-04 09:12:04.147, [INFO],Pixhawk initialized
+2023-09-04 09:12:04.175, [INFO],['/dev/ttyACM1', '/dev/ttyAMA0']
+2023-09-04 09:12:04.176, [INFO],system_address: /dev/ttyACM1
+2023-09-04 09:12:04.177, [INFO],Waiting for drone to connect...
+2023-09-04 09:12:04.296, [INFO],Connected Drone!
+2023-09-04 09:12:12.327, [INFO],0.0,-1.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:12.832, [INFO],0.0,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:13.336, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:13.839, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:14.342, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:14.847, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:15.313, [INFO],waiting for pixhawk to arm
+2023-09-04 09:12:15.350, [INFO],MANUAL,0.0083919,0.0,0.0,0.0,0.0
+2023-09-04 09:12:15.852, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:16.244, [INFO],--Arming
+2023-09-04 09:12:16.288, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:12:16.292, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 09:12:16.355, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:16.859, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:17.362, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:17.866, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:18.244, [INFO],--Arming
+2023-09-04 09:12:18.288, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 09:12:18.292, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:12:18.369, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:18.873, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:19.376, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:19.880, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:20.246, [INFO],--Arming
+2023-09-04 09:12:20.272, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 09:12:20.275, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:12:20.382, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:20.884, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:21.388, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:21.890, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:22.249, [INFO],--Arming
+2023-09-04 09:12:22.281, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:12:22.284, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 09:12:22.393, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:22.895, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:23.403, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:23.907, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:24.242, [INFO],--Arming
+2023-09-04 09:12:24.268, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 09:12:24.274, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 09:12:24.409, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:24.913, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:25.418, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:25.922, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 09:12:26.246, [INFO],--Arming
+2023-09-04 09:12:26.276, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]

@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+"Timeinfo","Level","Message","Light","Light Counter","Odo Altitude","Disp Altitude","Altitude Counter","Disp Velocity Z","Landing Counter"
+2023-08-29 17:36:45.106, [INFO],Pixhawk initialized
+2023-08-29 17:36:45.132, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-08-29 17:36:45.133, [INFO],system_address: /dev/ttyACMO
+2023-08-29 17:36:45.136, [INFO],Waiting for drone to connect...
+2023-08-29 17:36:45.258, [INFO],Connected Drone!
+2023-08-29 17:36:45.264, [INFO],Case program initialized
+=======
+"Timeinfo","Level","Message","Distance","Relative Altitude","Absolute Altitude","Latitude","Longitude"
+2023-08-29 10:01:54.621, [INFO],Pixhawk initialized
+2023-08-29 10:01:54.628, [INFO],Case program initialized
+2023-08-29 10:01:58.807, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-08-29 10:01:58.810, [INFO],system_address: /dev/ttyACMO
+2023-08-29 10:01:58.812, [INFO],Waiting for drone to connect...
+2023-08-29 10:02:00.405, [INFO],Connected Drone!
+2023-08-29 10:02:00.417, [INFO],Outside,831,1,0,0,0,0,0
+2023-08-29 10:02:00.913, [INFO],Now Outside
+2023-08-29 10:02:01.416, [INFO],Now Outside
+2023-08-29 10:02:01.420, [INFO],Outside,831,0,2.1300852298736572,0,0,0,0
+2023-08-29 10:02:01.920, [INFO],Now Outside
+2023-08-29 10:02:02.423, [INFO],Now Outside
+2023-08-29 10:02:02.424, [INFO],Outside,829,0,2.1364235877990723,0,0,0,0
+2023-08-29 10:02:02.925, [INFO],Now Outside
+2023-08-29 10:02:03.428, [INFO],Outside,829,0,2.1515228748321533,0,0,0,0
+2023-08-29 10:02:03.429, [INFO],Now Outside
+>>>>>>> 94259a6c4e3e6cb670a3b07ffda976afd52ddc6a

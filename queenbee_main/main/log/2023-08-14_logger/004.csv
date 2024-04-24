@@ -1,0 +1,39 @@
+"Timeinfo","Level","Message","Light","Light Counter","Pressure","Disp Pressure","Pressure Counter","Temperature"
+2023-08-14 07:02:07.222, [INFO],Pixhawk initialized
+2023-08-14 07:02:07.252, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-08-14 07:02:07.253, [INFO],system_address: /dev/ttyACMO
+2023-08-14 07:02:07.254, [INFO],Waiting for drone to connect...
+2023-08-14 07:02:07.420, [INFO],Connected Drone!
+2023-08-14 07:02:07.422, [INFO],waiting for pixhawk to hold
+2023-08-14 07:02:08.314, [INFO],--Holding
+2023-08-14 07:02:08.349, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:10.313, [INFO],--Holding
+2023-08-14 07:02:10.342, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:12.316, [INFO],--Holding
+2023-08-14 07:02:12.336, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:14.316, [INFO],--Holding
+2023-08-14 07:02:14.341, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:16.316, [INFO],--Holding
+2023-08-14 07:02:16.337, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:18.318, [INFO],--Holding
+2023-08-14 07:02:18.332, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:20.318, [INFO],--Holding
+2023-08-14 07:02:20.336, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:22.319, [INFO],--Holding
+2023-08-14 07:02:22.345, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:24.319, [INFO],--Holding
+2023-08-14 07:02:24.340, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:26.318, [INFO],--Holding
+2023-08-14 07:02:26.346, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:28.320, [INFO],--Holding
+2023-08-14 07:02:28.348, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:30.320, [INFO],--Holding
+2023-08-14 07:02:30.341, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:32.320, [INFO],--Holding
+2023-08-14 07:02:32.346, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:34.320, [INFO],--Holding
+2023-08-14 07:02:34.341, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:36.321, [INFO],--Holding
+2023-08-14 07:02:36.342, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()
+2023-08-14 07:02:38.320, [INFO],--Holding
+2023-08-14 07:02:38.335, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: hold(); params: ()

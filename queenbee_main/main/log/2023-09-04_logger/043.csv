@@ -1,0 +1,159 @@
+"Timeinfo","Level","Message","Light","Pressure","Disp Pressure","Light Counter","Pressure Counter"
+2023-09-04 08:41:47.793, [INFO],Camera initialized
+2023-09-04 08:41:47.798, [INFO],Pixhawk initialized
+2023-09-04 08:41:47.825, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-04 08:41:47.826, [INFO],system_address: /dev/ttyACMO
+2023-09-04 08:41:47.827, [INFO],Waiting for drone to connect...
+2023-09-04 08:41:47.953, [INFO],Connected Drone!
+2023-09-04 08:41:55.983, [INFO],0.0,-1.0,0.0,0.0,0.0,0.0
+2023-09-04 08:41:56.490, [INFO],0.0,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:41:56.993, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:41:57.496, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:41:57.998, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:41:58.501, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:41:58.969, [INFO],waiting for pixhawk to arm
+2023-09-04 08:41:59.4  , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:41:59.508, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:41:59.898, [INFO],--Arming
+2023-09-04 08:41:59.943, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:41:59.954, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:00.11 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:00.516, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:01.19 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:01.527, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:01.898, [INFO],--Arming
+2023-09-04 08:42:01.926, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:01.932, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:42:02.30 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:02.533, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:03.37 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:03.540, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:03.898, [INFO],--Arming
+2023-09-04 08:42:03.936, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:03.939, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:42:04.43 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:04.546, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:05.48 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:05.550, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:05.895, [INFO],--Arming
+2023-09-04 08:42:05.921, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:05.926, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:42:06.55 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:06.560, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:07.64 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:07.567, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:07.898, [INFO],--Arming
+2023-09-04 08:42:07.934, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:42:07.940, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:08.70 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:08.574, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:09.77 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:09.581, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:09.898, [INFO],--Arming
+2023-09-04 08:42:09.931, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:14.17 , [INFO],--Kill
+2023-09-04 08:42:14.44 , [INFO],--Reboot
+2023-09-04 08:42:24.75 , [INFO],Pixhawk initialized
+2023-09-04 08:42:24.105, [INFO],['/dev/ttyACM1', '/dev/ttyAMA0']
+2023-09-04 08:42:24.106, [INFO],system_address: /dev/ttyACM1
+2023-09-04 08:42:24.107, [INFO],Waiting for drone to connect...
+2023-09-04 08:42:25.185, [INFO],Connected Drone!
+2023-09-04 08:42:33.214, [INFO],0.0,-1.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:33.717, [INFO],0.0,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:34.220, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:34.723, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:35.225, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:35.728, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:36.202, [INFO],waiting for pixhawk to arm
+2023-09-04 08:42:36.231, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:36.733, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:37.172, [INFO],--Arming
+2023-09-04 08:42:37.206, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:42:37.215, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:37.235, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:37.739, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:38.243, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:38.748, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:39.170, [INFO],--Arming
+2023-09-04 08:42:39.204, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:42:39.211, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:39.251, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:39.753, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:40.255, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:40.759, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:41.169, [INFO],--Arming
+2023-09-04 08:42:41.200, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:41.205, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:42:41.261, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:41.765, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:42.269, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:42.772, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:43.170, [INFO],--Arming
+2023-09-04 08:42:43.200, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:42:43.208, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:43.276, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:43.781, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:44.286, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:44.789, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:45.170, [INFO],--Arming
+2023-09-04 08:42:45.199, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:45.205, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:42:45.291, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:45.796, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:46.299, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:46.804, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:42:47.167, [INFO],--Arming
+2023-09-04 08:42:47.204, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:42:51.233, [INFO],--Kill
+2023-09-04 08:42:51.265, [INFO],--Reboot
+2023-09-04 08:43:01.298, [INFO],Pixhawk initialized
+2023-09-04 08:43:01.328, [INFO],['/dev/ttyACM0', '/dev/ttyAMA0']
+2023-09-04 08:43:01.329, [INFO],system_address: /dev/ttyACMO
+2023-09-04 08:43:01.330, [INFO],Waiting for drone to connect...
+2023-09-04 08:43:02.411, [INFO],Connected Drone!
+2023-09-04 08:43:10.439, [INFO],0.0,-1.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:10.943, [INFO],0.0,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:11.448, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:11.952, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:12.456, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:12.959, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:13.427, [INFO],waiting for pixhawk to arm
+2023-09-04 08:43:13.462, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:13.965, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:14.400, [INFO],--Arming
+2023-09-04 08:43:14.435, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:43:14.440, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:43:14.468, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:14.971, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:15.474, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:15.978, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:16.399, [INFO],--Arming
+2023-09-04 08:43:16.434, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:43:16.437, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:43:16.482, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:16.986, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:17.489, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:17.993, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:18.403, [INFO],--Arming
+2023-09-04 08:43:18.432, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:43:18.436, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:43:18.500, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:19.3  , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:19.508, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:20.12 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:20.401, [INFO],--Arming
+2023-09-04 08:43:20.430, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:43:20.436, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:43:20.516, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:21.21 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:21.523, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:22.27 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:22.397, [INFO],--Arming
+2023-09-04 08:43:22.429, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]
+2023-09-04 08:43:22.431, [ERROR],COMMAND_DENIED: 'Command Denied'; origin: arm(); params: ()
+2023-09-04 08:43:22.529, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:23.32 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:23.534, [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:24.36 , [INFO],MANUAL,0.0,0.0,0.0,0.0,0.0
+2023-09-04 08:43:24.396, [INFO],--Arming
+2023-09-04 08:43:24.428, [INFO],StatusText: [type: CRITICAL, text: Failure: Kill switch engaged]

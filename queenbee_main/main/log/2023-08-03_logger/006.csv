@@ -1,0 +1,6 @@
+"Timeinfo","Level","Message","Distance","Relative Altitude","Absolute Altitude","Latitude","Longitude"
+2023-08-03 19:03:32.534, [INFO],Pixhawk initialized
+2023-08-03 19:03:32.537, [INFO],Waiting for drone to connect...
+2023-08-03 19:03:32.651, [INFO],Connected Drone!
+2023-08-03 19:03:32.652, [INFO],Waiting for drone to have a global position estimate...
+2023-08-03 19:03:33.608, [INFO],-- Global position estimate OK
