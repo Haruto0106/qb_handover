@@ -1,0 +1,14 @@
+nichrome_time: 7
+setting_presen_time: 0.03
+writing_presen_time: 0.03
+presen_rest_time: 0.03
+ligsen_rest_time: 0.03
+judge_storage_maxtime: 60
+judge_storage_loop_time: 0.5
+judge_storage_border_light: 500
+judge_release_maxtime: 100
+judge_release_border_light: 500
+judge_landing_maxtime: 100
+judge_landing_sleep_time: 1
+pressure_tolerance: 0.15
+maxmax_time: 120

@@ -1,0 +1,57 @@
+drone: true
+case: false
+camera: false
+lora: true
+system_address: serial:///dev/ttyACM0:115200
+target1:
+  latitude: 40.86893478
+  longitude: -119.10514995999999
+  altitude: 8
+precise_timeout: 300
+reboot_time: 1200
+percent: 5.0e-4
+target2:
+  latitude: 35.7138415
+  longitude: 139.76050941
+mode: goto
+gotorange: 3.0e-06
+hsv:
+  h:
+  - 0
+  - 360
+  s:
+  - 0
+  - 100
+  v:
+  - 0
+  - 60
+hsv2:
+  h:
+  - 0
+  - 360
+  s:
+  - 0
+  - 100
+  v:
+  - 0
+  - 60
+photo:
+  framerate: 30
+  shutter_speed: 0
+  exposure_mode: auto
+nichrome_time: 5
+ligsen_rest_time: 0.03
+presen_rest_time: 0.05
+judge_storage_countmax: 500
+judge_storage_maxtime: 1200
+judge_storage_border_light: 500
+judge_storage_sleep_time: 0.5
+judge_release_lig_countmax: 12
+judge_release_pre_countmax: 12
+judge_release_maxtime: 3600
+judge_release_border_light: 500
+judge_release_disp_fore: 1
+judge_landing_countmax: 15
+judge_landing_maxtime: 1200
+pressure_tolerance: 0.08
+judge_landing_sleep_time: 1

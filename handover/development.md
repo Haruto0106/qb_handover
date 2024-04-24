@@ -10,6 +10,7 @@ CaseとDrone、画像航法用のCameraでそれぞれクラスを作成しま�
 
 ## Case部分
 担当: 山城
+
 ロケットへの収納判定、ロケットからの放出判定、パラシュート降下後の着地判定の3つを判定し、その後機体を展開するプログラムです。
 光センサー、気圧センサーを使用しました。
 細かい内容・アルゴリズムは実際にプログラムを読んでください。`/queenbee_main/main/queenbee/class_case.py`に置いてあります。
@@ -17,8 +18,8 @@ CaseとDrone、画像航法用のCameraでそれぞれクラスを作成しま�
 ## Drone部分 
 担当: 秀島
 ### ゴールまでの飛行
-基本的にDrone制御は[mavsdk.System](https://github.com/mavlink/MAVSDK-Python?tab=readme-ov-file)の子クラスである`queenbee.bee`を使って制御しています。
-[ライブラリ](http://mavsdk-python-docs.s3-website.eu-central-1.amazonaws.com/system.html#mavsdk.system.System)と、
+基本的にDrone制御は[mavsdk.System](https://github.com/mavlink/MAVSDK-Python?tab=readme-ov-file)の子クラスである`queenbee_main/main/queenbee.bee`の`Bee`クラスを使って制御しています。
+[ライブラリ](http://mavsdk-python-docs.s3-website.eu-central-1.amazonaws.com/system.html#mavsdk.system.System)も重要ですが、
 `asyncio`(非同期処理)の理解がほぼ全てです。
 
 二つある自律飛行モードの、MissionモードとGotoモードのうち、Takeoff → Goto モードで飛行しました。`/queenbee_main/main/qb_main.py`がわかりやすいと思います。
@@ -33,3 +34,9 @@ picamera ver.1.3を用いて撮影した画像を使用。撮影に用いたラ�
 
 本番は使用ませんでしたが、`gc_main.py`はLoRaでダウンリンクしてきたデータをGoogleMapで追跡するスクリプトです。
 時間がなくてかなりUIに頼ったコードになってるので、時間があればAPIを叩いてしっかり実装してみてもいいかもです。(秀島)
+
+## 機械学習
+担当: 田中
+
+preciseLandingの画像処理屁の機械学習の使用を試みましたが、本番の実装には間に合いませんでした.
+途中までは実装は`queenbee_main/image_estimation`に痕跡をおいておきます。

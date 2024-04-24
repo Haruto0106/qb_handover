@@ -1,0 +1,828 @@
+2023-09-08 21:31:07: progress:JS:L0
+
+2023-09-08 21:31:16: progress:JS:L0
+
+2023-09-08 21:31:26: progress:JS:L0
+
+2023-09-08 21:31:37: progress:JS:L0
+
+2023-09-08 21:31:47: progress:JS:L0
+
+2023-09-08 21:31:57: progress:JS:L0
+
+2023-09-08 21:32:07: progress:JS:L0
+
+2023-09-08 21:32:18: progress:JS:L0
+
+2023-09-08 21:32:28: progress:JS:L0
+
+2023-09-08 21:32:38: progress:JS:L0
+
+2023-09-08 21:32:48: progress:JS:L0
+
+2023-09-08 21:32:58: progress:JS:L0
+
+2023-09-08 21:33:09: progress:JS:L0
+
+2023-09-08 21:33:19: progress:JS:L0
+
+2023-09-08 21:33:29: progress:JS:L0
+
+2023-09-08 21:33:39: progress:JS:L0
+
+2023-09-08 21:33:49: progress:JS:L0
+
+2023-09-08 21:34:00: progress:JS:L0
+
+2023-09-08 21:34:10: progress:JS:L0
+
+2023-09-08 21:34:44: progress:JS:L0
+
+2023-09-08 21:34:44: progress:JS:L0
+
+2023-09-08 21:34:44: progress:JS:L0
+
+2023-09-08 21:34:51: progress:JS:L0
+
+2023-09-08 21:35:01: progress:JS:L0
+
+2023-09-08 21:35:11: progress:JS:L0
+
+2023-09-08 21:35:21: progress:JS:L0
+
+2023-09-08 21:35:32: progress:JS:L0
+
+2023-09-08 21:35:42: progress:JS:L0
+
+2023-09-08 21:35:52: progress:JS:L0
+
+2023-09-08 21:36:02: progress:JS:L0
+
+2023-09-08 21:36:12: progress:JS:L0
+
+2023-09-08 21:36:23: progress:JS:L0
+
+2023-09-08 21:36:33: progress:JS:L0
+
+2023-09-08 21:36:43: progress:JS:L0
+
+2023-09-08 21:36:53: progress:JS:L0
+
+2023-09-08 21:37:03: progress:JS:L0
+
+2023-09-08 21:37:14: progress:JS:L0
+
+2023-09-08 21:37:24: progress:JS:L0
+
+2023-09-08 21:37:34: progress:JS:L0
+
+2023-09-08 21:37:44: progress:JS:L0
+
+2023-09-08 21:37:55: progress:JS:L0
+
+2023-09-08 21:38:05: progress:JS:L0
+
+2023-09-08 21:38:15: progress:JS:L0
+
+2023-09-08 21:38:25: progress:JS:L0
+
+2023-09-08 21:38:35: progress:JS:L0
+
+2023-09-08 21:38:46: progress:JS:L0
+
+2023-09-08 21:38:56: progress:JS:L0
+
+2023-09-08 21:39:06: progress:JS:L0
+
+2023-09-08 21:39:16: progress:JS:L0
+
+2023-09-08 21:39:26: progress:JS:L0
+
+2023-09-08 21:39:37: progress:JS:L0
+
+2023-09-08 21:39:47: progress:JS:L0
+
+2023-09-08 21:39:57: progress:JS:L0
+
+2023-09-08 21:40:07: progress:JS:L0
+
+2023-09-08 21:40:18: progress:JS:L0
+
+2023-09-08 21:40:28: progress:JS:L0
+
+2023-09-08 21:40:38: progress:JS:L0
+
+2023-09-08 21:40:48: progress:JS:L0
+
+2023-09-08 21:40:58: progress:JS:L0
+
+2023-09-08 21:41:09: progress:JS:L0
+
+2023-09-08 21:41:19: progress:JS:L0
+
+2023-09-08 21:41:29: progress:JS:L0
+
+2023-09-08 21:41:39: progress:JS:L0
+
+2023-09-08 21:41:49: progress:JS:L0
+
+2023-09-08 21:42:00: progress:JS:L0
+
+2023-09-08 21:42:10: progress:JS:L0
+
+2023-09-08 21:42:20: progress:JS:L0
+
+2023-09-08 21:42:30: progress:JS:L0
+
+2023-09-08 21:42:40: progress:JS:L0
+
+2023-09-08 21:42:51: progress:JS:L0
+
+2023-09-08 21:43:01: progress:JS:L0
+
+2023-09-08 21:43:11: progress:JS:L0
+
+2023-09-08 21:43:21: progress:JS:L0
+
+2023-09-08 21:43:32: progress:JS:L0
+
+2023-09-08 21:43:42: progress:JS:L0
+
+2023-09-08 21:43:52: progress:JS:L0
+
+2023-09-08 21:44:02: progress:JS:L0
+
+2023-09-08 21:44:12: progress:JS:L0
+
+2023-09-08 21:44:23: progress:JS:L0
+
+2023-09-08 21:44:33: progress:JS:L0
+
+2023-09-08 21:44:43: progress:JS:L0
+
+2023-09-08 21:44:53: progress:JS:L0
+
+2023-09-08 21:45:03: progress:JS:L0
+
+2023-09-08 21:45:14: progress:JS:L0
+
+2023-09-08 21:45:24: progress:JS:L0
+
+2023-09-08 21:45:34: progress:JS:L0
+
+2023-09-08 21:45:44: progress:JS:L0
+
+2023-09-08 21:45:54: progress:JS:L0
+
+2023-09-08 21:46:05: progress:JS:L0
+
+2023-09-08 21:46:15: progress:JS:L0
+
+2023-09-08 21:46:25: progress:JS:L0
+
+2023-09-08 21:46:35: progress:JS:L0
+
+2023-09-08 21:46:46: progress:JS:L0
+
+2023-09-08 21:46:56: progress:JS:L0
+
+2023-09-08 21:47:06: progress:JS:L0
+
+2023-09-08 21:47:16: progress:JS:L0
+
+2023-09-08 21:47:26: progress:JS:L0
+
+2023-09-08 21:47:37: progress:JR:LL1,1
+
+2023-09-08 21:47:47: progress:JR:LL3,0
+
+2023-09-08 21:47:57: progress:JR:LL4,0
+
+2023-09-08 21:48:07: progress:JR:LL6,0
+
+2023-09-08 21:48:17: progress:JR:LL7,0
+
+2023-09-08 21:48:28: progress:JR:LL9,0
+
+2023-09-08 21:48:38: progress:JR:LL11,0
+
+2023-09-08 21:48:48: progress:JR:LL12,0
+
+2023-09-08 21:48:58: progress:JR:LL14,0
+
+2023-09-08 21:49:09: progress:JR:LL15,0
+
+2023-09-08 21:49:19: progress:JR:LL17,0
+
+2023-09-08 21:49:29: progress:JR:LL18,0
+
+2023-09-08 21:49:39: progress:JR:LL20,0
+
+2023-09-08 21:49:49: progress:JR:LL22,0
+
+2023-09-08 21:50:00: progress:JR:LL23,0
+
+2023-09-08 21:50:10: progress:JR:LL25,0
+
+2023-09-08 21:50:20: progress:JR:LL26,0
+
+2023-09-08 21:50:30: progress:JR:LL28,0
+
+2023-09-08 21:50:40: progress:JR:LL29,0
+
+2023-09-08 21:50:51: progress:JR:LL31,0
+
+2023-09-08 21:51:01: progress:JR:LL33,0
+
+2023-09-08 21:51:11: progress:JR:LL34,0
+
+2023-09-08 21:51:21: progress:JR:LL36,0
+
+2023-09-08 21:51:31: progress:JR:LL37,0
+
+2023-09-08 21:51:42: progress:JR:LL39,0
+
+2023-09-08 21:54:36: progress:JR:LL40,0
+
+2023-09-08 21:54:36: progress:JR:LL42,0
+
+2023-09-08 21:54:36: progress:JR:LL44,0
+
+2023-09-08 21:54:36: progress:JR:LL45,0
+
+2023-09-08 21:54:36: progress:JR:LL47,0
+
+2023-09-08 21:54:36: progress:JR:LL48,0
+
+2023-09-08 21:54:36: progress:JR:LL50,0
+
+2023-09-08 21:54:36: progress:JR:LL51,0
+
+2023-09-08 21:54:36: progress:JR:LL53,0
+
+2023-09-08 21:54:36: progress:JR:LL55,0
+
+2023-09-08 21:54:36: progress:JR:LL56,0
+
+2023-09-08 21:54:36: progress:JR:LL58,0
+
+2023-09-08 21:54:36: progress:JR:LL59,0
+
+2023-09-08 21:54:36: progress:JR:LL61,0
+
+2023-09-08 21:54:36: progress:JR:LL62,0
+
+2023-09-08 21:54:36: progress:JR:LL64,0
+
+2023-09-08 21:54:36: progress:JR:LL66,0
+
+2023-09-08 21:54:45: progress:JR:LL67,0
+
+2023-09-08 21:54:56: progress:JR:LL69,0
+
+2023-09-08 21:55:06: progress:JR:LL70,0
+
+2023-09-08 21:55:16: progress:JR:LL72,0
+
+2023-09-08 21:55:26: progress:JR:LL73,0
+
+2023-09-08 21:55:37: progress:JR:LL75,0
+
+2023-09-08 21:55:47: progress:JR:LL77,0
+
+2023-09-08 21:55:57: progress:JR:LL78,0
+
+2023-09-08 21:56:07: progress:JR:LL80,0
+
+2023-09-08 21:56:17: progress:JR:LL81,0
+
+2023-09-08 21:56:28: progress:JR:LL83,0
+
+2023-09-08 21:56:38: progress:JR:LL84,0
+
+2023-09-08 21:56:48: progress:JR:LL86,0
+
+2023-09-08 21:56:58: progress:JR:LL88,0
+
+2023-09-08 21:57:08: progress:JR:LL89,0
+
+2023-09-08 21:57:19: progress:JR:LL91,0
+
+2023-09-08 21:57:29: progress:JR:LL92,0
+
+2023-09-08 21:57:39: progress:JR:LL94,0
+
+2023-09-08 21:57:49: progress:JR:LL95,0
+
+2023-09-08 21:58:00: progress:JR:LL97,0
+
+2023-09-08 21:58:10: progress:JR:LL99,0
+
+2023-09-08 22:18:16: progress:JR:LL100,0
+
+2023-09-08 22:18:16: progress:JR:LL102,0
+
+2023-09-08 22:18:16: progress:JR:LL103,0
+
+2023-09-08 22:18:16: progress:JR:LL105,0
+
+2023-09-08 22:18:16: progress:JR:LL106,0
+
+2023-09-08 22:18:16: progress:JR:LL108,0
+
+2023-09-08 22:18:16: progress:JR:LL110,0
+
+2023-09-08 22:18:16: progress:JR:LL111,0
+
+2023-09-08 22:18:16: progress:JR:LL113,0
+
+2023-09-08 22:18:16: progress:JR:LL114,0
+
+2023-09-08 22:18:16: progress:JR:LL116,0
+
+2023-09-08 22:18:16: progress:JR:LL117,0
+
+2023-09-08 22:18:16: progress:JR:LL119,0
+
+2023-09-08 22:18:16: progress:JR:LL120,0
+
+2023-09-08 22:18:16: progress:JR:LL122,0
+
+2023-09-08 22:18:16: progress:JR:LL124,0
+
+2023-09-08 22:18:16: progress:JR:LL125,0
+
+2023-09-08 22:18:16: progress:JR:LL127,0
+
+2023-09-08 22:18:16: progress:JR:LL128,0
+
+2023-09-08 22:18:16: progress:JR:LL130,0
+
+2023-09-08 22:18:16: progress:JR:LL131,0
+
+2023-09-08 22:18:16: progress:JR:LL133,0
+
+2023-09-08 22:18:16: progress:JR:LL135,0
+
+2023-09-08 22:18:16: progress:JR:LL136,0
+
+2023-09-08 22:18:16: progress:JR:LL138,0
+
+2023-09-08 22:18:16: progress:JR:LL139,0
+
+2023-09-08 22:18:16: progress:JR:LL141,0
+
+2023-09-08 22:18:16: progress:JR:LL142,0
+
+2023-09-08 22:18:25: progress:JR:LL285,0
+
+2023-09-08 22:18:35: progress:JR:LL287,0
+
+2023-09-08 22:18:46: progress:JR:LL289,0
+
+2023-09-08 22:18:56: progress:JR:LL290,0
+
+2023-09-08 22:19:06: progress:JR:LL292,0
+
+2023-09-08 22:19:16: progress:JR:LL293,0
+
+2023-09-08 22:19:26: progress:JR:LL295,0
+
+2023-09-08 22:19:37: progress:JR:LL296,0
+
+2023-09-08 22:19:47: progress:JR:LL298,0
+
+2023-09-08 22:19:57: progress:JR:LL300,0
+
+2023-09-08 22:20:07: progress:JR:LL301,0
+
+2023-09-08 22:20:18: progress:JR:LL303,0
+
+2023-09-08 22:20:28: progress:JR:LL304,0
+
+2023-09-08 22:20:38: progress:JR:LL306,0
+
+2023-09-08 22:20:48: progress:JR:LL307,0
+
+2023-09-08 22:20:58: progress:JR:LL309,0
+
+2023-09-08 22:21:09: progress:JR:LL311,0
+
+2023-09-08 22:21:19: progress:JR:LL312,0
+
+2023-09-08 22:21:29: progress:JR:LL314,0
+
+2023-09-08 22:21:39: progress:JR:LL315,0
+
+2023-09-08 22:24:52: progress:JR:LL317,0
+
+2023-09-08 22:24:52: progress:JR:LL318,0
+
+2023-09-08 22:24:52: progress:JR:LL320,0
+
+2023-09-08 22:24:52: progress:JR:LL322,0
+
+2023-09-08 22:24:52: progress:JR:LL323,0
+
+2023-09-08 22:24:52: progress:JR:LL325,0
+
+2023-09-08 22:24:52: progress:JR:LL326,0
+
+2023-09-08 22:24:52: progress:JR:LL328,0
+
+2023-09-08 22:24:52: progress:JR:LL329,0
+
+2023-09-08 22:24:52: progress:JR:LL331,0
+
+2023-09-08 22:24:52: progress:JR:LL333,0
+
+2023-09-08 22:24:52: progress:JR:LL334,0
+
+2023-09-08 22:24:52: progress:JR:LL336,0
+
+2023-09-08 22:24:52: progress:JR:LL337,0
+
+2023-09-08 22:24:52: progress:JR:LL339,0
+
+2023-09-08 22:24:52: progress:JR:LL340,0
+
+2023-09-08 22:24:52: progress:JR:LL342,0
+
+2023-09-08 22:24:52: progress:JR:LL344,0
+
+2023-09-08 22:24:53: progress:JR:LL345,0
+
+2023-09-08 22:25:03: progress:JR:LL347,0
+
+2023-09-08 22:25:14: progress:JR:LL348,0
+
+2023-09-08 22:25:24: progress:JR:LL350,0
+
+2023-09-08 22:25:34: progress:JR:LL351,0
+
+2023-09-08 22:25:44: progress:JR:LL353,0
+
+2023-09-08 22:25:55: progress:JR:LL355,0
+
+2023-09-08 22:26:05: progress:JR:LL356,0
+
+2023-09-08 22:26:15: progress:JR:LL358,0
+
+2023-09-08 22:26:25: progress:JR:LL359,0
+
+2023-09-08 22:26:35: progress:JR:LL361,0
+
+2023-09-08 22:26:46: progress:JR:LL362,0
+
+2023-09-08 22:26:56: progress:JR:LL364,0
+
+2023-09-08 22:27:06: progress:JR:LL366,0
+
+2023-09-08 22:27:16: progress:JR:LL367,0
+
+2023-09-08 22:27:26: progress:JR:LL369,0
+
+2023-09-08 22:27:37: progress:JR:LL370,0
+
+2023-09-08 22:27:47: progress:JR:LL372,0
+
+2023-09-08 22:27:57: progress:JR:LL373,0
+
+2023-09-08 22:28:07: progress:JR:LL375,0
+
+2023-09-08 22:29:25: progress:JR:LL377,0
+
+2023-09-08 22:29:25: progress:JR:LL378,0
+
+2023-09-08 22:29:25: progress:JR:LL380,0
+
+2023-09-08 22:29:25: progress:JR:LL381,0
+
+2023-09-08 22:29:25: progress:JR:LL383,0
+
+2023-09-08 22:29:25: progress:JR:LL384,0
+
+2023-09-08 22:29:25: progress:JR:LL386,0
+
+2023-09-08 22:29:29: progress:JR:LL388,0
+
+2023-09-08 22:29:39: progress:JR:LL389,0
+
+2023-09-08 22:29:49: progress:JR:LL391,0
+
+2023-09-08 22:30:00: progress:JR:LL392,0
+
+2023-09-08 22:30:10: progress:JR:LL394,0
+
+2023-09-08 22:30:20: progress:JR:LL395,0
+
+2023-09-08 22:30:30: progress:JR:LL397,0
+
+2023-09-08 22:30:40: progress:JR:LL399,0
+
+2023-09-08 22:30:51: progress:JR:LL400,0
+
+2023-09-08 22:31:01: progress:JR:LL402,0
+
+2023-09-08 22:31:11: progress:JR:LL403,0
+
+2023-09-08 22:31:21: progress:JR:LL405,0
+
+2023-09-08 22:31:32: progress:JR:LL406,0
+
+2023-09-08 22:31:42: progress:JR:LL408,0
+
+2023-09-08 22:31:52: progress:JR:LL410,0
+
+2023-09-08 22:32:02: progress:JR:LL411,0
+
+2023-09-08 22:32:12: progress:JR:LL413,0
+
+2023-09-08 22:32:23: progress:JR:LL414,0
+
+2023-09-08 22:32:33: progress:JR:LL416,0
+
+2023-09-08 22:32:43: progress:JR:LL417,0
+
+2023-09-08 22:32:55: progress:JR:LL419,0
+
+2023-09-08 22:33:03: progress:JR:LL421,0
+
+2023-09-08 22:33:14: progress:JR:LL422,0
+
+2023-09-08 22:33:24: progress:JR:LL424,0
+
+2023-09-08 22:33:34: progress:JR:LL425,0
+
+2023-09-08 22:33:44: progress:JR:LL427,0
+
+2023-09-08 22:33:54: progress:JR:LL428,0
+
+2023-09-08 22:34:05: progress:JR:LL430,0
+
+2023-09-08 22:34:15: progress:JR:LL432,0
+
+2023-09-08 22:34:25: progress:JR:LL433,0
+
+2023-09-08 22:34:35: progress:JR:LL435,0
+
+2023-09-08 22:34:46: progress:JR:LL436,0
+
+2023-09-08 22:34:56: progress:JR:LL438,0
+
+2023-09-08 22:35:06: progress:JR:LL439,0
+
+2023-09-08 22:35:16: progress:JR:LL441,0
+
+2023-09-08 22:35:26: progress:JR:LL443,0
+
+2023-09-08 22:35:37: progress:JR:LL444,0
+
+2023-09-08 22:35:47: progress:JR:LL446,0
+
+2023-09-08 22:35:57: progress:JR:LL447,0
+
+2023-09-08 22:36:07: progress:JR:LL449,0
+
+2023-09-08 22:36:17: progress:JR:LL450,0
+
+2023-09-08 22:36:28: progress:JR:LL452,0
+
+2023-09-08 22:36:36: progress:JR:LL454,0
+
+2023-09-08 22:36:44: progress:JR:LL454,0
+
+2023-09-08 22:36:53: progress:JR:LL456,0
+
+2023-09-08 22:37:03: progress:JR:LL457,0
+
+2023-09-08 22:37:14: progress:JR:LL459,0
+
+2023-09-08 22:37:24: progress:JR:LL461,0
+
+2023-09-08 22:37:34: progress:JR:LL462,0
+
+2023-09-08 22:37:44: progress:JR:LL464,0
+
+2023-09-08 22:37:54: progress:JR:LL465,0
+
+2023-09-08 22:38:05: progress:JR:LL467,0
+
+2023-09-08 22:38:15: progress:JR:LL468,0
+
+2023-09-08 22:38:25: progress:JR:LL470,0
+
+2023-09-08 22:38:35: progress:JR:LL472,0
+
+2023-09-08 22:38:45: progress:JR:LL473,0
+
+2023-09-08 22:38:56: progress:JR:LL475,0
+
+2023-09-08 22:39:06: progress:JR:LL476,0
+
+2023-09-08 22:39:16: progress:JR:LL478,0
+
+2023-09-08 22:39:26: progress:JR:LL479,0
+
+2023-09-08 22:39:37: progress:JR:LL481,0
+
+2023-09-08 22:39:47: progress:JR:LL483,0
+
+2023-09-08 22:39:57: progress:JR:LL484,0
+
+2023-09-08 22:40:07: progress:JR:LL486,0
+
+2023-09-08 22:40:17: progress:JR:LL487,0
+
+2023-09-08 22:40:28: progress:JR:LL489,0
+
+2023-09-08 22:40:38: progress:JR:LL490,0
+
+2023-09-08 22:47:04: progress:JR:LL492,0
+
+2023-09-08 22:47:04: progress:JR:LL494,0
+
+2023-09-08 22:47:04: progress:JR:LL495,0
+
+2023-09-08 22:47:04: progress:JR:LL497,0
+
+2023-09-08 22:47:04: progress:JR:LL498,0
+
+2023-09-08 22:47:04: progress:JR:LL500,0
+
+2023-09-08 22:47:04: progress:JR:LL501,0
+
+2023-09-08 22:47:04: progress:JR:LL503,0
+
+2023-09-08 22:47:04: progress:JR:LL505,0
+
+2023-09-08 22:47:04: progress:JR:LL506,0
+
+2023-09-08 22:47:04: progress:JR:LL508,0
+
+2023-09-08 22:47:04: progress:JR:LL509,0
+
+2023-09-08 22:47:04: progress:JR:LL511,0
+
+2023-09-08 22:47:04: progress:JR:LL512,0
+
+2023-09-08 22:47:04: progress:JR:LL514,0
+
+2023-09-08 22:47:04: progress:JR:LL516,0
+
+2023-09-08 22:47:04: progress:JR:LL517,0
+
+2023-09-08 22:47:04: progress:JR:LL519,0
+
+2023-09-08 22:47:04: progress:JR:LL520,0
+
+2023-09-08 22:47:04: progress:JR:LL522,0
+
+2023-09-08 22:47:04: progress:JR:LL523,0
+
+2023-09-08 22:47:04: progress:JR:LL525,0
+
+2023-09-08 22:47:04: progress:JR:LL527,0
+
+2023-09-08 22:47:04: progress:JR:LL528,0
+
+2023-09-08 22:47:04: progress:JR:LL530,0
+
+2023-09-08 22:47:04: progress:JR:LL531,0
+
+2023-09-08 22:47:04: progress:JR:LL533,0
+
+2023-09-08 22:47:04: progress:JR:LL534,0
+
+2023-09-08 22:47:06: progress:JR:LL550,0
+
+2023-09-08 22:47:16: progress:JR:LL552,0
+
+2023-09-08 22:47:26: progress:JR:LL553,0
+
+2023-09-08 22:47:36: progress:JL:L0
+
+2023-09-08 22:47:46: progress:JL:L0
+
+2023-09-08 22:47:57: progress:JL:L0
+
+2023-09-08 22:48:07: progress:JL:L0
+
+2023-09-08 22:48:17: progress:JL:L0
+
+2023-09-08 22:48:27: progress:JL:L0
+
+2023-09-08 22:48:37: progress:JL:L0
+
+2023-09-08 22:48:48: progress:JL:L0
+
+2023-09-08 22:48:58: progress:JL:L0
+
+2023-09-08 22:49:08: progress:JL:L0
+
+2023-09-08 22:49:18: progress:JL:L0
+
+2023-09-08 22:49:28: progress:JL:L0
+
+2023-09-08 22:49:39: progress:JL:L0
+
+2023-09-08 22:49:49: progress:JL:L0
+
+2023-09-08 22:49:59: progress:JL:L0
+
+2023-09-08 22:50:09: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:50: progress:JL:L0
+
+2023-09-08 23:04:58: progress:JL:L0
+
+2023-09-08 23:05:08: progress:JL:L0
+
+2023-09-08 23:05:18: progress:JL:L0
+
+2023-09-08 23:05:28: progress:JL:L0
+
+2023-09-08 23:05:39: progress:JL:L0
+
+2023-09-08 23:05:49: progress:JL:L0
+
+2023-09-08 23:05:59: progress:JL:L0
+
+2023-09-08 23:06:09: progress:JL:L0
+
+2023-09-08 23:06:19: progress:JL:L0
+
+2023-09-08 23:06:30: progress:JL:L0
+
+2023-09-08 23:06:40: progress:JL:L0
+
+2023-09-08 23:06:50: progress:JL:L0
+
+2023-09-08 23:07:00: progress:JL:L0
+
+2023-09-08 23:07:10: progress:JL:L0
+
+2023-09-08 23:07:21: progress:JL:L0
+
+2023-09-08 23:07:31: progress:Land
+
+2023-09-08 23:07:36: progress:Stand
+
+2023-09-08 23:07:46: progress:Stand
+
